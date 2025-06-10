@@ -1,4 +1,4 @@
-ASP.NET Core Web API with Identity, JWT Authentication & SQL Server
+#ASP.NET Core Web API with Identity, JWT Authentication & SQL Server
 This project demonstrates how to build a secure ASP.NET Core Web API with user registration, login, and role-based authorization using ASP.NET Core Identity and JWT tokens. It connects to a SQL Server database using Entity Framework Core and seeds default roles (Admin and User). The API protects endpoints with JWT-based authentication and role-based authorization.
 
 Features
